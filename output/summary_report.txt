@@ -1,0 +1,4 @@
+Total Records: 5
+Average Age: 28.25
+Average Salary: 51750.0
+Department Count: {'IT': 2, 'HR': 2, 'Finance': 1}
